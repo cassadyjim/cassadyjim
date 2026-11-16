@@ -14,6 +14,8 @@ These days I'm bridging that background with hands-on AI development — buildin
 
 ### 🛠️ What I Build
 
+**[Apeiroverse](https://apeiroverse.com)** — A shared, infinitely zoomable AI-illustrated universe. Users pick a seed world (an Irish village, the Milky Way, a medieval map), drag a box to claim any spot, describe what's hidden inside, and AI draws the next picture — which anyone can zoom into and build on, layer after layer. Includes a Treasure Hunt mode, achievement badges, and a mobile-friendly UI.
+
 **[RedWhiteAndSkewed](https://github.com/cassadyjim/RedWhiteandSkewed)** — A media literacy platform publishing one deeply researched daily political story from conservative, liberal, and fact-check perspectives. Built an end-to-end AI content pipeline: Claude API for source-only journalism with inline citations, automated HTML/sitemap generation, push notifications, and SFTP publishing automation.
 
 **[CassadyNet](https://github.com/cassadyjim/CassadyNet)** — An AI-powered news aggregation engine pulling from 100+ RSS sources, scoring and clustering stories with Claude, and generating analysis pages and interactive polls automatically.
